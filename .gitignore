@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Selenium / WebDriver Manager
+.wdm/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
